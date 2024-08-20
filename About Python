@@ -1,5 +1,10 @@
 **Python Libaries You must know**
 	- Python is a very versatile programming language.
-  - Its versatile nature makes it a favorite among new as well as old developers.
+  	- Its versatile nature makes it a favorite among new as well as old developers.
+
 **What is a library**
-  - In a programming language context, a library refers to the collection pre-defined code modules that serves specific functionality.
+  	- In a programming language context, a library refers to the collection pre-defined code modules that serves 
+specific functionality.
+	- These modules are reusable.
+	- These are integrated into the programmer’s code which increases the development process and 
+functionality of the software.
